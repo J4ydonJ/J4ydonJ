@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaydon
+<h1>Hi, I'm Jaydon, an IT Professional 
 
 <h2> My Information Technology Projects:</h2>
 
